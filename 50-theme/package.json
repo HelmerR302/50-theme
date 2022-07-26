@@ -1,0 +1,44 @@
+{
+  "name": "50-theme",
+  "displayName": "50 Waizhuan",
+  "description": "A VS theme inspired by TV series My Own Swordsman 武林外传",
+  "version": "0.2.0",
+  "publisher": "Helmerz",
+  "author": {
+    "name": "Helmerz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HelmerR302/50-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HelmerR302/50-theme.git"
+  },
+  "homepage": "https://github.com/HelmerR302",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#7075B0",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Wu Lin Wai Zhuan",
+    "Swordsman",
+    "Wulin",
+    "50 Waizhuan"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "50 theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/50 theme-color-theme.json"
+      }
+    ]
+  }
+}
