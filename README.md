@@ -4,7 +4,7 @@ This is a theme inspired by my childhood TV series, Wu Lin Wai Zhuan (My Own Swo
 
 I created palette using the typical colors of main characters' costumes, built a sense of vintage.
 
-![Theme preview](preview.png)
+![Theme preview](preview.3.1.png)
 
 **If you are also a fan of 50, hope you enjoy it!**
 
