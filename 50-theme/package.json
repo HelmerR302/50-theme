@@ -2,7 +2,7 @@
   "name": "50-theme",
   "displayName": "50 Waizhuan",
   "description": "A VS theme inspired by TV series My Own Swordsman 武林外传",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "publisher": "Helmerz",
   "author": {
     "name": "Helmerz"
@@ -30,7 +30,10 @@
     "Wu Lin Wai Zhuan",
     "Swordsman",
     "Wulin",
-    "50 Waizhuan"
+    "50 Waizhuan",
+    "VS color theme",
+    "Dark theme",
+    "vintage dark theme"
   ],
   "contributes": {
     "themes": [
