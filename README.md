@@ -9,4 +9,4 @@ I created palette using the typical colors of main characters' costumes, built a
 **If you are also a fan of 50, hope you enjoy it!**
 
 Update 0.3.0:
-Slighely adjust color schemes, improved color contrast
+Slighly adjusted color schemes, improved color contrast
